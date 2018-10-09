@@ -1,4 +1,5 @@
 {
   "host": "react-pokedex-api-app.feathersjs.com",
-  "port": "PORT"
+  "port": "PORT",
+  "mongodb": "mongodb://heroku_djxrsjqb:e0bhmrjq46d0v2ic8mc7ka8970@ds235785.mlab.com:35785/heroku_djxrsjqb"
 }
